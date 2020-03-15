@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[btcavenue.qt-translation-019x]
+file_filter = src/qt/locale/btcavenue_<lang>.ts
+source_file = src/qt/locale/btcavenue_en.ts
+source_lang = en
